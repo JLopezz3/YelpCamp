@@ -1,2 +1,2 @@
 # YelpCamp
-Campsite Web App using EJS, NodeJS, and MongoDB
+Campsite Web App using Javascript, EJS, NodeJS, and MongoDB
